@@ -15,7 +15,5 @@ order: 2
 
 #### PhD Thesis
 
-**Handling variability at the code level: modeling, tracing and checking consistency.** Xhevahire Tërnava. Université Côte d'Azur, Laboratoire I3S - SPARKS, 2017 [<em>\[.pdf\]</em>](https://tel.archives-ouvertes.fr/tel-01720323)  
-
 
 #### Monography
