@@ -12,5 +12,5 @@ order: 5
 - **Auditim.** Full time Assistant Lecturer, [Iliria College](http://www.uiliria.org/ui/), Prishtinë.
 - **Tregjet Financiare.** Full time Assistant Lecturer, [Iliria College](http://www.uiliria.org/ui/), Prishtinë.
 - **Financat.** Full time Assistant Lecturer, [Iliria College](http://www.uiliria.org/ui/), Prishtinë.
-- **Finacat Nderkombetare.** Full time Assistant Lecturer, [Iliria College](http://www.uiliria.org/ui/), Prishtinë.
+- **Financat Nderkombetare.** Full time Assistant Lecturer, [Iliria College](http://www.uiliria.org/ui/), Prishtinë.
     
