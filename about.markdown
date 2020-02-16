@@ -9,9 +9,9 @@ order: 1
 
 #### About
 
-Profesor Albulena ...
+Profesor Asistent per studimet BA dhe MA ...
 
- I do research ...
+
  
 
 **Profiles:** [Google Scholar](https://scholar.google.com/citations?user=VPn08HIAAAAJ&hl=en), [ResearchGate](https://www.researchgate.net/profile/Albulena_Shala), [LinkedIn](https://www.linkedin.com/in/albulena-shala-099556129).
