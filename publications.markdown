@@ -19,4 +19,4 @@ https://ekonomiku.uni-pr.edu/getattachment/Shpallje-dhe-rezultate-(1)/Doktoratur
 
 
 #### Monography
-Njetrajtesimi i te ardhurave ne sektorin bankar; Universiteti Iliria,Prishtine 2020;
+Njëtrajtësimi i të ardhurave në sektorin bankar; Universiteti Iliria,Prishtinë, 2020;
